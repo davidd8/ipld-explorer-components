@@ -26,7 +26,8 @@
     "hashDigest": "Hash digest"
   },
   "ObjectInfo": {
-    "gatewayLink": "View on IPFS Gateway"
+    "publicGateway": "View on Public Gateway",
+    "privateGateway": "View on Private Gateway"
   },
   "base": "base",
   "version": "version",
